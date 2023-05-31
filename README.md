@@ -3,7 +3,7 @@
 A simple texture pack that replaces the cloud texture with Niko from the game OneShot
 
 ## Pack Version: 13 (1.19.4)
-## Texture Pack Version: 2
+## Texture Pack Version: 2.5
 ## Works On: 1.19.2, 1.20 Pre-release 7 
 ## Assumed To Work On: 1.19+
 
